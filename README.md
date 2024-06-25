@@ -1,2 +1,2 @@
-# CSE344-System-Programming
-This repository includes my homeworks for CSE344 System Programming course.
+# CSE344 - System Programming
+This repository includes homeworks for CSE344 System Programming course.
